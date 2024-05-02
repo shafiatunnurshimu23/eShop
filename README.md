@@ -1,3 +1,3 @@
 # eShop
-System project
+System project |
 Complete e-commerce website
